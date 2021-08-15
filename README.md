@@ -1,7 +1,7 @@
-# CitasAplication
+# AppointmentApp
 My first React Native Application. 
 
-this is a App for create and manage veterinary appointment, 
-applying basic concepts of react native.
+This is an app for creating and managing veterinary appointments, and 
+applying basic concepts from react native.
 
-this application was created with expo-cli
+This application was created with expo-cli
